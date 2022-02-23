@@ -12,7 +12,7 @@ Read [SOLID Docs](https://en.wikipedia.org/wiki/SOLID)
 Resources:
 - [Using dependency injection and SOLID principles with Symfony][2]
 
-[1]: https://github.com/habibun/symfony-cache/tree/4.x
+[1]: https://github.com/habibun/solid/tree/5.x
 [2]: https://medium.com/analytics-vidhya/dependency-injection-and-solid-principles-with-symfony-the-geocoding-example-f18ad08ed20b
 
 ## License
